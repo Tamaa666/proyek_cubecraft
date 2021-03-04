@@ -1,6 +1,6 @@
 # proyek_cubecraft
 
 Kelompok 6
-Arjuna Pratama
-M. Navis Abdillah
-Brilliandy Zulfan
+1. Arjuna Pratama
+2. M. Navis Abdillah
+3. Brilliandy Zulfan
